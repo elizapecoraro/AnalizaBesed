@@ -20,6 +20,9 @@ def relativne_frekvence(besede):
         for crka, frek in frekvence.items():
             print(f"{crka},{frek:.2e}", file=f)
 
+def dodatno():
+    return 21
+
 
 vse_besede = nalozi_besede()
 relativne_frekvence(vse_besede)

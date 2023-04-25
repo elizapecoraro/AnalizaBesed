@@ -14,4 +14,4 @@ Dve zvezdici za **debelo**, ena zvezdica za *ležeče*
 # Avtorji
 - Janez Novak
 - Klemen Klemen
-- Simon G.
+

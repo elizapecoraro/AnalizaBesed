@@ -12,3 +12,5 @@ Dve zvezdici za **debelo**, ena zvezdica za *ležeče*
 ~~prečrtano~~ (Alt Gr + 1)
 
 
+# Avtorji
+:)

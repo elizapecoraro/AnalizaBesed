@@ -15,5 +15,4 @@ Dve zvezdici za **debelo**, ena zvezdica za *ležeče*
 - Janez Novak
 - Klemen Klemen
 
-# Avtorji
-:)
+# Avto
